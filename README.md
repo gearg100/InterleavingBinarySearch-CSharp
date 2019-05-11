@@ -1,4 +1,4 @@
-# Interleaving Binary Search in CSharp (.Net Core 3.0)
+# Interleaving Binary Search in C# (.Net Core 3.0)
 Two implementations of interleaved execution for binary search in CSharp using:
 - async/await, and
 - yield.
